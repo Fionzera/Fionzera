@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fionzera&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fionzera&theme=midnight-purple"/>
+</div>
+
 <!--
 **Fionzera/Fionzera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
